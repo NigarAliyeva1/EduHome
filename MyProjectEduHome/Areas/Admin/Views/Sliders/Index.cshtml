@@ -13,6 +13,9 @@
                         <thead>
                             <tr>
                                 <th>
+                                    Image
+                                </th>
+                                <th>
                                     Name
                                 </th>
                                 <th>
@@ -27,6 +30,9 @@
                             @foreach (Slider item in Model)
                             {
                                 <tr>
+                                    <td>
+                                        <img src="~/img/slider/@item.Image"/>
+                                    </td>
                                     <td>
                                         @item.Title
                                     </td>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\MyProjectEduHome.csproj": {}
+    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\MyProjectEduHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\MyProjectEduHome.csproj": {
+    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\MyProjectEduHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
+        "projectUniqueName": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
         "projectName": "MyProjectEduHome",
-        "projectPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
+        "projectPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
         "packagesPath": "C:\\Users\\nigar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\obj\\",
+        "outputPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nigar\\AppData\\Roaming\\NuGet\\NuGet.Config",

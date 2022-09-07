@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LONzkAQAEPf+fesKNpSugFGQ/9yvFrLj8TX11mM4Hamds3LpIxp8EMHhAZsXtBCCnIEmPPy+84yNIDQyZJR+qQ==",
+  "dgSpecHash": "P0oT87c1rtWIeRtiQuY2zrXmWwVy0RAHZdgj4P7QGaqVrlh9ww75sVFTXi//No900JHCPi+xawUUYX3346lGfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
+  "projectFilePath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectEduHome\\EduHome\\MyProjectEduHome\\MyProjectEduHome.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nigar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nigar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
