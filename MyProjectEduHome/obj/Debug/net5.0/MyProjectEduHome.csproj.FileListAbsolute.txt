@@ -295,7 +295,6 @@ C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\MyProjectEduHome.TagHelpers.input.cache
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\MyProjectEduHome.TagHelpers.output.cache
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\MyProjectEduHome.RazorCoreGenerate.cache
-C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\Razor\Areas\Admin\Views\Services\Create.cshtml.g.cs
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\Razor\Areas\Admin\Views\Services\Delete.cshtml.g.cs
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\Razor\Areas\Admin\Views\Services\Detail.cshtml.g.cs
@@ -336,3 +335,4 @@ C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\MyProjectEduHome.pdb
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\MyProjectEduHome.genruntimeconfig.cache
 C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\ref\MyProjectEduHome.dll
+C:\Users\nigar\OneDrive\Masaüstü\MyProjectEduHome\EduHome\MyProjectEduHome\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
